@@ -1,0 +1,138 @@
+{
+  "uid" : "eeccdd0ce79f364d",
+  "name" : "Dado que eu esteja na tela React Slingshot",
+  "fullName" : "Dado que eu esteja na tela React Slingshot",
+  "historyId" : "17ea13db84c75bdf58ac6797519de16b",
+  "time" : {
+    "start" : 1604261481281,
+    "stop" : 1604261481934,
+    "duration" : 653
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit (\"http://localhost:3000/\")",
+      "time" : {
+        "start" : 1604261481300,
+        "stop" : 1604261481931,
+        "duration" : 631
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Rulx",
+      "time" : {
+        "start" : 1604261481929,
+        "stop" : 1604261481929,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Rumt&sid=05KujhzSr_W3WE6WAAIv",
+      "time" : {
+        "start" : 1604261481929,
+        "stop" : 1604261481929,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Rumz&sid=05KujhzSr_W3WE6WAAIv",
+      "time" : {
+        "start" : 1604261481930,
+        "stop" : 1604261481930,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Rung&sid=05KujhzSr_W3WE6WAAIv",
+      "time" : {
+        "start" : 1604261481930,
+        "stop" : 1604261481930,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Runj&sid=05KujhzSr_W3WE6WAAIv",
+      "time" : {
+        "start" : 1604261481931,
+        "stop" : 1604261481931,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Home"
+  }, {
+    "name" : "suite",
+    "value" : "CN001 -  Validar Layout tela React Slingshot"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eeccdd0ce79f364d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,138 @@
+{
+  "uid" : "67ccf8c703108ca7",
+  "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "fullName" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "historyId" : "9081b2f108b2993417106e6387c6d9be",
+  "time" : {
+    "start" : 1604261469351,
+    "stop" : 1604261470042,
+    "duration" : 691
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit (\"http://localhost:3000/fuel-savings\")",
+      "time" : {
+        "start" : 1604261469390,
+        "stop" : 1604261470041,
+        "duration" : 651
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Rrrf",
+      "time" : {
+        "start" : 1604261470037,
+        "stop" : 1604261470037,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Rrrw&sid=9Ri3Q1lsaYTYAVNJAAIs",
+      "time" : {
+        "start" : 1604261470038,
+        "stop" : 1604261470038,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5Rrrz&sid=9Ri3Q1lsaYTYAVNJAAIs",
+      "time" : {
+        "start" : 1604261470039,
+        "stop" : 1604261470039,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RrsN&sid=9Ri3Q1lsaYTYAVNJAAIs",
+      "time" : {
+        "start" : 1604261470040,
+        "stop" : 1604261470040,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RrsQ&sid=9Ri3Q1lsaYTYAVNJAAIs",
+      "time" : {
+        "start" : 1604261470041,
+        "stop" : 1604261470041,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Fuel Savings Analysis"
+  }, {
+    "name" : "suite",
+    "value" : "CN007 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"New Vehicle price per gallon\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67ccf8c703108ca7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,168 @@
+{
+  "uid" : "91321d85c3e5b705",
+  "name" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+  "fullName" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+  "historyId" : "7ba23c423fc21b01469f5dfdcf4bdd25",
+  "time" : {
+    "start" : 1604261461009,
+    "stop" : 1604261461129,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get (\"[class=\"fuel-savings-label\"]\")",
+      "time" : {
+        "start" : 1604261461055,
+        "stop" : 1604261461072,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<td.fuel-savings-label>** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261461072,
+        "stop" : 1604261461072,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<td.fuel-savings-label>** to contain **Savings** assert",
+      "time" : {
+        "start" : 1604261461072,
+        "stop" : 1604261461072,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[class=\"savings\"]\")",
+      "time" : {
+        "start" : 1604261461072,
+        "stop" : 1604261461129,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <td.savings>, 2 more... ]** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261461128,
+        "stop" : 1604261461128,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <td.savings>, 2 more... ]** to contain **$50.56** assert",
+      "time" : {
+        "start" : 1604261461128,
+        "stop" : 1604261461128,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <td.savings>, 2 more... ]** to contain **$606.72** assert",
+      "time" : {
+        "start" : 1604261461129,
+        "stop" : 1604261461129,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <td.savings>, 2 more... ]** to contain **$1,820.16** assert",
+      "time" : {
+        "start" : 1604261461129,
+        "stop" : 1604261461129,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 8
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Fuel Savings Analysis"
+  }, {
+    "name" : "suite",
+    "value" : "CN002 - Validar retorno positivo para cálculo de consumo por semana"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91321d85c3e5b705.json",
+  "parameterValues" : [ ]
+}

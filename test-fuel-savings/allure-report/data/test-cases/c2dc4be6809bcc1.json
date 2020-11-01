@@ -1,0 +1,78 @@
+{
+  "uid" : "c2dc4be6809bcc1",
+  "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "fullName" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "historyId" : "aaa5ed0a464f0a55e44dead377c13356",
+  "time" : {
+    "start" : 1604261457731,
+    "stop" : 1604261459168,
+    "duration" : 1437
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit (\"http://localhost:3000/fuel-savings\")",
+      "time" : {
+        "start" : 1604261457777,
+        "stop" : 1604261459167,
+        "duration" : 1390
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RpI4",
+      "time" : {
+        "start" : 1604261459166,
+        "stop" : 1604261459166,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Fuel Savings Analysis"
+  }, {
+    "name" : "suite",
+    "value" : "CN002 - Validar retorno positivo para cálculo de consumo por semana"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2dc4be6809bcc1.json",
+  "parameterValues" : [ ]
+}

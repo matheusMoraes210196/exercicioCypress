@@ -1,0 +1,243 @@
+{
+  "uid" : "c8b63356629de74f",
+  "name" : "Quando eu preencher os campos com",
+  "fullName" : "Quando eu preencher os campos com",
+  "historyId" : "3187007a3f0f664ab8fb9945c086753c",
+  "time" : {
+    "start" : 1604261473920,
+    "stop" : 1604261475100,
+    "duration" : 1180
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get (\"[name=\"newMpg\"]\")",
+      "time" : {
+        "start" : 1604261473960,
+        "stop" : 1604261473963,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "type (\"15\")",
+      "time" : {
+        "start" : 1604261473963,
+        "stop" : 1604261474140,
+        "duration" : 177
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[name=\"tradeMpg\"]\")",
+      "time" : {
+        "start" : 1604261474140,
+        "stop" : 1604261474144,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "type (\"12\")",
+      "time" : {
+        "start" : 1604261474144,
+        "stop" : 1604261474322,
+        "duration" : 178
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[name=\"newPpg\"]\")",
+      "time" : {
+        "start" : 1604261474322,
+        "stop" : 1604261474327,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "type (\"3.5\")",
+      "time" : {
+        "start" : 1604261474327,
+        "stop" : 1604261474530,
+        "duration" : 203
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[name=\"tradePpg\"]\")",
+      "time" : {
+        "start" : 1604261474530,
+        "stop" : 1604261474534,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "type (\"3.5\")",
+      "time" : {
+        "start" : 1604261474534,
+        "stop" : 1604261474728,
+        "duration" : 194
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[name=\"milesDriven\"]\")",
+      "time" : {
+        "start" : 1604261474728,
+        "stop" : 1604261474733,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "type (\"-200\")",
+      "time" : {
+        "start" : 1604261474733,
+        "stop" : 1604261474951,
+        "duration" : 218
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[name=\"milesDrivenTimeframe\"]\")",
+      "time" : {
+        "start" : 1604261474951,
+        "stop" : 1604261474955,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "select (\"month\")",
+      "time" : {
+        "start" : 1604261474955,
+        "stop" : 1604261475095,
+        "duration" : 140
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[type=\"submit\"]\")",
+      "time" : {
+        "start" : 1604261475095,
+        "stop" : 1604261475099,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 13
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Fuel Savings Analysis"
+  }, {
+    "name" : "suite",
+    "value" : "CN009 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"Miles Driven\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8b63356629de74f.json",
+  "parameterValues" : [ ]
+}

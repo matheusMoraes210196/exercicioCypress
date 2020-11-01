@@ -1,0 +1,333 @@
+{
+  "uid" : "75c2bf1d22cf94de",
+  "name" : "Então valido o layout",
+  "fullName" : "Então valido o layout",
+  "historyId" : "eb33ad2fd36e7e557d11187438190ce4",
+  "time" : {
+    "start" : 1604261481945,
+    "stop" : 1604261482048,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get (\"[href=\"/\"]\")",
+      "time" : {
+        "start" : 1604261481963,
+        "stop" : 1604261481988,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<a.active>** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261481988,
+        "stop" : 1604261481988,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<a.active>** to contain **Home** assert",
+      "time" : {
+        "start" : 1604261481988,
+        "stop" : 1604261481988,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[href=\"/fuel-savings\"]\")",
+      "time" : {
+        "start" : 1604261481988,
+        "stop" : 1604261482000,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <a>, 1 more... ]** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261482000,
+        "stop" : 1604261482000,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <a>, 1 more... ]** to contain **Demo App** assert",
+      "time" : {
+        "start" : 1604261482000,
+        "stop" : 1604261482000,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"[href=\"/about\"]\")",
+      "time" : {
+        "start" : 1604261482000,
+        "stop" : 1604261482012,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<a>** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261482012,
+        "stop" : 1604261482012,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<a>** to contain **About** assert",
+      "time" : {
+        "start" : 1604261482012,
+        "stop" : 1604261482012,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"h1\")",
+      "time" : {
+        "start" : 1604261482012,
+        "stop" : 1604261482023,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<h1>** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261482023,
+        "stop" : 1604261482023,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<h1>** to contain **React Slingshot** assert",
+      "time" : {
+        "start" : 1604261482023,
+        "stop" : 1604261482023,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"h2\")",
+      "time" : {
+        "start" : 1604261482023,
+        "stop" : 1604261482031,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<h2>** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261482030,
+        "stop" : 1604261482030,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **<h2>** to contain **Get Started** assert",
+      "time" : {
+        "start" : 1604261482031,
+        "stop" : 1604261482031,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "get (\"li\")",
+      "time" : {
+        "start" : 1604261482031,
+        "stop" : 1604261482047,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <li>, 1 more... ]** to exist in the DOM assert",
+      "time" : {
+        "start" : 1604261482046,
+        "stop" : 1604261482046,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <li>, 1 more... ]** to contain **Review the demo app** assert",
+      "time" : {
+        "start" : 1604261482046,
+        "stop" : 1604261482046,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "expected **[ <li>, 1 more... ]** to contain **Remove the demo and start coding: npm run remove-demo** assert",
+      "time" : {
+        "start" : 1604261482046,
+        "stop" : 1604261482046,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 19
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Home"
+  }, {
+    "name" : "suite",
+    "value" : "CN001 -  Validar Layout tela React Slingshot"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75c2bf1d22cf94de.json",
+  "parameterValues" : [ ]
+}

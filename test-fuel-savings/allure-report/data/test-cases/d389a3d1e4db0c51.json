@@ -1,0 +1,138 @@
+{
+  "uid" : "d389a3d1e4db0c51",
+  "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "fullName" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "historyId" : "bf317ff3d047ec0d241ca73f1389d5a7",
+  "time" : {
+    "start" : 1604261455119,
+    "stop" : 1604261456711,
+    "duration" : 1592
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit (\"http://localhost:3000/fuel-savings\")",
+      "time" : {
+        "start" : 1604261455179,
+        "stop" : 1604261456674,
+        "duration" : 1495
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RoX1",
+      "time" : {
+        "start" : 1604261456671,
+        "stop" : 1604261456671,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RoXb&sid=LrHrD6FIzYmejo3VAAIl",
+      "time" : {
+        "start" : 1604261456672,
+        "stop" : 1604261456672,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RoYD&sid=LrHrD6FIzYmejo3VAAIl",
+      "time" : {
+        "start" : 1604261456672,
+        "stop" : 1604261456672,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RoY-&sid=LrHrD6FIzYmejo3VAAIl",
+      "time" : {
+        "start" : 1604261456673,
+        "stop" : 1604261456673,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RoZ1&sid=LrHrD6FIzYmejo3VAAIl",
+      "time" : {
+        "start" : 1604261456673,
+        "stop" : 1604261456673,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Fuel Savings Analysis"
+  }, {
+    "name" : "suite",
+    "value" : "CN001 - Validar Layout tela Fuel Savings Analysis"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d389a3d1e4db0c51.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,395 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Dado que eu esteja na tela About",
+    "uid" : "1c80a8daeaccba94",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261440317,
+      "stop" : 1604261441507,
+      "duration" : 1190
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então valido o layout",
+    "uid" : "19add0052717606",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261441572,
+      "stop" : 1604261441949,
+      "duration" : 377
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "d389a3d1e4db0c51",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261455119,
+      "stop" : 1604261456711,
+      "duration" : 1592
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então valido o layout",
+    "uid" : "22144aa86ebe0fa1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261456758,
+      "stop" : 1604261457613,
+      "duration" : 855
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "c2dc4be6809bcc1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261457731,
+      "stop" : 1604261459168,
+      "duration" : 1437
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "17f838ba97f576b5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261459249,
+      "stop" : 1604261461000,
+      "duration" : 1751
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+    "uid" : "91321d85c3e5b705",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261461009,
+      "stop" : 1604261461129,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "41a7ae367d9a1c9b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261461137,
+      "stop" : 1604261461827,
+      "duration" : 690
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "ad5b5962db954512",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261461884,
+      "stop" : 1604261463214,
+      "duration" : 1330
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+    "uid" : "13a339214c54796f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261463222,
+      "stop" : 1604261463381,
+      "duration" : 159
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "2efb62a578f5d789",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261463404,
+      "stop" : 1604261464132,
+      "duration" : 728
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "1f47b465f87cbf49",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261464149,
+      "stop" : 1604261465349,
+      "duration" : 1200
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+    "uid" : "445518686236b9ed",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261465357,
+      "stop" : 1604261465446,
+      "duration" : 89
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "b8b810c7bb5a20be",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261465464,
+      "stop" : 1604261466129,
+      "duration" : 665
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "8ca0606fd4ab7e91",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261466141,
+      "stop" : 1604261467313,
+      "duration" : 1172
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o campo \"Savings\" não deve ser exibido",
+    "uid" : "89984fc03f0083eb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261467321,
+      "stop" : 1604261467354,
+      "duration" : 33
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "37b4008790e30087",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261467361,
+      "stop" : 1604261468039,
+      "duration" : 678
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "933f72e61b243072",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261468083,
+      "stop" : 1604261469299,
+      "duration" : 1216
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o campo \"Savings\" não deve ser exibido",
+    "uid" : "15edf91fd80ce95f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261469306,
+      "stop" : 1604261469344,
+      "duration" : 38
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "67ccf8c703108ca7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261469351,
+      "stop" : 1604261470042,
+      "duration" : 691
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "8d7f02de69288f8b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261470052,
+      "stop" : 1604261471248,
+      "duration" : 1196
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o campo \"Savings\" não deve ser exibido",
+    "uid" : "8685bd542416d44e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261471254,
+      "stop" : 1604261471285,
+      "duration" : 31
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "c607d3accfa5781e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261471291,
+      "stop" : 1604261471928,
+      "duration" : 637
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "4a8cff70a364321",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261471936,
+      "stop" : 1604261473177,
+      "duration" : 1241
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o campo \"Savings\" não deve ser exibido",
+    "uid" : "667ee8b74b7bf814",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261473184,
+      "stop" : 1604261473213,
+      "duration" : 29
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+    "uid" : "72aa82c584b4ce83",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261473217,
+      "stop" : 1604261473911,
+      "duration" : 694
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Quando eu preencher os campos com",
+    "uid" : "c8b63356629de74f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261473920,
+      "stop" : 1604261475100,
+      "duration" : 1180
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então o campo \"Savings\" não deve ser exibido",
+    "uid" : "25e264a52b984ebe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261475108,
+      "stop" : 1604261475139,
+      "duration" : 31
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dado que eu esteja na tela React Slingshot",
+    "uid" : "eeccdd0ce79f364d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261481281,
+      "stop" : 1604261481934,
+      "duration" : 653
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Então valido o layout",
+    "uid" : "75c2bf1d22cf94de",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604261481945,
+      "stop" : 1604261482048,
+      "duration" : 103
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

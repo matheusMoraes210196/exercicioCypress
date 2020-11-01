@@ -1,0 +1,138 @@
+{
+  "uid" : "37b4008790e30087",
+  "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "fullName" : "Dado que eu esteja na tela Fuel Savings Analysis",
+  "historyId" : "6be480cea3364a1a789a02157d603a1e",
+  "time" : {
+    "start" : 1604261467361,
+    "stop" : 1604261468039,
+    "duration" : 678
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit (\"http://localhost:3000/fuel-savings\")",
+      "time" : {
+        "start" : 1604261467372,
+        "stop" : 1604261468038,
+        "duration" : 666
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RrML",
+      "time" : {
+        "start" : 1604261468036,
+        "stop" : 1604261468036,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RrMj&sid=qGuUpRafHwkAmSrKAAIr",
+      "time" : {
+        "start" : 1604261468037,
+        "stop" : 1604261468037,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RrMm&sid=qGuUpRafHwkAmSrKAAIr",
+      "time" : {
+        "start" : 1604261468037,
+        "stop" : 1604261468037,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RrN9&sid=qGuUpRafHwkAmSrKAAIr",
+      "time" : {
+        "start" : 1604261468038,
+        "stop" : 1604261468038,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET http://localhost:3000/browser-sync/socket.io/?EIO=3&transport=polling&t=NM5RrNB&sid=qGuUpRafHwkAmSrKAAIr",
+      "time" : {
+        "start" : 1604261468038,
+        "stop" : 1604261468038,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tela - Fuel Savings Analysis"
+  }, {
+    "name" : "suite",
+    "value" : "CN006 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"Trade-in MPG\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37b4008790e30087.json",
+  "parameterValues" : [ ]
+}

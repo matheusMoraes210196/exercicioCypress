@@ -1,0 +1,451 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Tela - About",
+    "children" : [ {
+      "name" : "CN001 - Validar Layout tela About",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela About",
+        "uid" : "1c80a8daeaccba94",
+        "parentUid" : "cb6aa982e99f6eb6e8f9121900849c6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261440317,
+          "stop" : 1604261441507,
+          "duration" : 1190
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então valido o layout",
+        "uid" : "19add0052717606",
+        "parentUid" : "cb6aa982e99f6eb6e8f9121900849c6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261441572,
+          "stop" : 1604261441949,
+          "duration" : 377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cb6aa982e99f6eb6e8f9121900849c6f"
+    } ],
+    "uid" : "43001dfb33c3c14c82d55146d3bb395c"
+  }, {
+    "name" : "Tela - Fuel Savings Analysis",
+    "children" : [ {
+      "name" : "CN001 - Validar Layout tela Fuel Savings Analysis",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "d389a3d1e4db0c51",
+        "parentUid" : "9fd9ead947d92bf706f253209a6acd05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261455119,
+          "stop" : 1604261456711,
+          "duration" : 1592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então valido o layout",
+        "uid" : "22144aa86ebe0fa1",
+        "parentUid" : "9fd9ead947d92bf706f253209a6acd05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261456758,
+          "stop" : 1604261457613,
+          "duration" : 855
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9fd9ead947d92bf706f253209a6acd05"
+    }, {
+      "name" : "CN002 - Validar retorno positivo para cálculo de consumo por semana",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "c2dc4be6809bcc1",
+        "parentUid" : "8f1f3a3355081b05df1f501229bdf5ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261457731,
+          "stop" : 1604261459168,
+          "duration" : 1437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "17f838ba97f576b5",
+        "parentUid" : "8f1f3a3355081b05df1f501229bdf5ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261459249,
+          "stop" : 1604261461000,
+          "duration" : 1751
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+        "uid" : "91321d85c3e5b705",
+        "parentUid" : "8f1f3a3355081b05df1f501229bdf5ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261461009,
+          "stop" : 1604261461129,
+          "duration" : 120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8f1f3a3355081b05df1f501229bdf5ae"
+    }, {
+      "name" : "CN003 - Validar retorno positivo para cálculo de consumo por mês",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "41a7ae367d9a1c9b",
+        "parentUid" : "eb1ffc0ef073d3da717252d64b8cd0d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261461137,
+          "stop" : 1604261461827,
+          "duration" : 690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "ad5b5962db954512",
+        "parentUid" : "eb1ffc0ef073d3da717252d64b8cd0d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261461884,
+          "stop" : 1604261463214,
+          "duration" : 1330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+        "uid" : "13a339214c54796f",
+        "parentUid" : "eb1ffc0ef073d3da717252d64b8cd0d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261463222,
+          "stop" : 1604261463381,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb1ffc0ef073d3da717252d64b8cd0d2"
+    }, {
+      "name" : "CN004 - Validar retorno positivo para cálculo de consumo por ano",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "2efb62a578f5d789",
+        "parentUid" : "a28c84023839497c1e94490414a3ab3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261463404,
+          "stop" : 1604261464132,
+          "duration" : 728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "1f47b465f87cbf49",
+        "parentUid" : "a28c84023839497c1e94490414a3ab3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261464149,
+          "stop" : 1604261465349,
+          "duration" : 1200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o retorno do cálculo no campo \"Savings\" deve ser positivo com os valores",
+        "uid" : "445518686236b9ed",
+        "parentUid" : "a28c84023839497c1e94490414a3ab3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261465357,
+          "stop" : 1604261465446,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a28c84023839497c1e94490414a3ab3c"
+    }, {
+      "name" : "CN005 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"New Vehicle MPG\"",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "b8b810c7bb5a20be",
+        "parentUid" : "c9cadddb5ca833af633f8aeac064d9d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261465464,
+          "stop" : 1604261466129,
+          "duration" : 665
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "8ca0606fd4ab7e91",
+        "parentUid" : "c9cadddb5ca833af633f8aeac064d9d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261466141,
+          "stop" : 1604261467313,
+          "duration" : 1172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o campo \"Savings\" não deve ser exibido",
+        "uid" : "89984fc03f0083eb",
+        "parentUid" : "c9cadddb5ca833af633f8aeac064d9d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261467321,
+          "stop" : 1604261467354,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9cadddb5ca833af633f8aeac064d9d4"
+    }, {
+      "name" : "CN006 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"Trade-in MPG\"",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "37b4008790e30087",
+        "parentUid" : "020ed529632a204c0d2397130f25214f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261467361,
+          "stop" : 1604261468039,
+          "duration" : 678
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "933f72e61b243072",
+        "parentUid" : "020ed529632a204c0d2397130f25214f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261468083,
+          "stop" : 1604261469299,
+          "duration" : 1216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o campo \"Savings\" não deve ser exibido",
+        "uid" : "15edf91fd80ce95f",
+        "parentUid" : "020ed529632a204c0d2397130f25214f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261469306,
+          "stop" : 1604261469344,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "020ed529632a204c0d2397130f25214f"
+    }, {
+      "name" : "CN007 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"New Vehicle price per gallon\"",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "67ccf8c703108ca7",
+        "parentUid" : "caecbcf21e9120765215e11ed7d6e34e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261469351,
+          "stop" : 1604261470042,
+          "duration" : 691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "8d7f02de69288f8b",
+        "parentUid" : "caecbcf21e9120765215e11ed7d6e34e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261470052,
+          "stop" : 1604261471248,
+          "duration" : 1196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o campo \"Savings\" não deve ser exibido",
+        "uid" : "8685bd542416d44e",
+        "parentUid" : "caecbcf21e9120765215e11ed7d6e34e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261471254,
+          "stop" : 1604261471285,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "caecbcf21e9120765215e11ed7d6e34e"
+    }, {
+      "name" : "CN008 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"Trade-in price per gallon\"",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "c607d3accfa5781e",
+        "parentUid" : "fd89c3ae6e9120cdd0d1622380faff30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261471291,
+          "stop" : 1604261471928,
+          "duration" : 637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "4a8cff70a364321",
+        "parentUid" : "fd89c3ae6e9120cdd0d1622380faff30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261471936,
+          "stop" : 1604261473177,
+          "duration" : 1241
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o campo \"Savings\" não deve ser exibido",
+        "uid" : "667ee8b74b7bf814",
+        "parentUid" : "fd89c3ae6e9120cdd0d1622380faff30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261473184,
+          "stop" : 1604261473213,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd89c3ae6e9120cdd0d1622380faff30"
+    }, {
+      "name" : "CN009 - Validar que não houve retorno para cálculo de consumo com valor negativo no campo \"Miles Driven\"",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela Fuel Savings Analysis",
+        "uid" : "72aa82c584b4ce83",
+        "parentUid" : "cf8da2ed41876d2725a2f6c4d1f5baa2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261473217,
+          "stop" : 1604261473911,
+          "duration" : 694
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Quando eu preencher os campos com",
+        "uid" : "c8b63356629de74f",
+        "parentUid" : "cf8da2ed41876d2725a2f6c4d1f5baa2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261473920,
+          "stop" : 1604261475100,
+          "duration" : 1180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então o campo \"Savings\" não deve ser exibido",
+        "uid" : "25e264a52b984ebe",
+        "parentUid" : "cf8da2ed41876d2725a2f6c4d1f5baa2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261475108,
+          "stop" : 1604261475139,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf8da2ed41876d2725a2f6c4d1f5baa2"
+    } ],
+    "uid" : "cefda9e20261bab1631d6fd8c96e0fbd"
+  }, {
+    "name" : "Tela - Home",
+    "children" : [ {
+      "name" : "CN001 -  Validar Layout tela React Slingshot",
+      "children" : [ {
+        "name" : "Dado que eu esteja na tela React Slingshot",
+        "uid" : "eeccdd0ce79f364d",
+        "parentUid" : "f8ed3981365ea1398270ba58268e82de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261481281,
+          "stop" : 1604261481934,
+          "duration" : 653
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Então valido o layout",
+        "uid" : "75c2bf1d22cf94de",
+        "parentUid" : "f8ed3981365ea1398270ba58268e82de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604261481945,
+          "stop" : 1604261482048,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f8ed3981365ea1398270ba58268e82de"
+    } ],
+    "uid" : "c0e3e0c3e430fd05c47a33eeb01cc2fb"
+  } ]
+}
